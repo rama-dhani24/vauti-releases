@@ -1,4 +1,4 @@
-# Vauti 1.0.0 (Early Test)
+# Vauti 1.0.2 (Early Test)
 
 First test build of Vauti, a savings tracker for setting goals and building a saving habit.
 
@@ -19,13 +19,14 @@ Android phones only. iPhone is not supported yet.
 
 ## How to install
 
-1. Download `vauti.apk` on your Android phone.
+1. Download [Vauti-1.0.2.apk](https://github.com/rama-dhani24/vauti-releases/releases/latest/download/Vauti-1.0.2.apk) on your Android phone.
 2. Allow “Install unknown apps” for your browser if asked.
 3. If Google Play Protect warns you, tap “Install anyway”.
 4. Open Vauti, tap Create account, and enter your name, phone number, and a 4-digit PIN.
 
 ## Good to know
 
+- Version 1.0.2 improves group goal closure and fixes small-screen layout issues.
 - This is an early test. Features may change and data may be reset.
 - Vauti only tracks your savings. It does not hold or move money.
 - Group goals need an internet connection.
